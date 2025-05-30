@@ -1,0 +1,3 @@
+请求头 {'User-Agent': 'python-requests/2.31.0', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Connection': 'keep-alive', 'appId': 'fee53119', 'timestamp': '1717591394', 'signature': '8+KGSBpHK50gKTYmy5DPS8MFMek=', 'Content-Length': '57051', 'Content-Type': 'multipart/form-data; boundary=109b81b855e9a16b72d3902cae1e5ffc'} <class 'requests.structures.CaseInsensitiveDict'>
+onMessage：
+{"flag":true,"code":0,"desc":null,"data":{"parseType":"TEXT","quantity":"14","letterNum":"26151","fileId":"287ff13f8fef468b9c19b19bbaefaed2"},"sid":"67bdc88715c4436b84c59b6b4d19f2f0"}
